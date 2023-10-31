@@ -1,0 +1,10 @@
+프론트 엔드를 svelte를 활용해 spa 기술로 구현하다.
+1. svelte로 frontend 템플릿 만들기
+2. 환경셋팅하기(svelte, npm 설치)
+ - npm create vite@latest frontend -- --template svelte
+ - cd frontend
+ - npm install
+3. npm run dev (개발 모드 실행)
+4. 프론트 엔드 계획
+- lib 만들기 : task add, task read, task edit(수정), task delete
+
